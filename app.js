@@ -20,3 +20,5 @@ function checkint(arg){
         return 0;
     }
 }
+
+//elo
